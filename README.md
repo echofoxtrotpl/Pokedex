@@ -12,7 +12,7 @@ This app is a simple Pokémon catalog made with
 
 You can **browse** the pokemon catalog, **search** them by name or **filter** by type and **view their's details**. 
 
-There is also **dark mode**! :)
+There is also a **dark mode**! :)
 
 # Setup instructions
 
