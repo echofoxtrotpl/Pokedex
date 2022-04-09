@@ -10,7 +10,7 @@ This app is a simple Pokémon catalog made with
 * [Apollo](https://www.apollographql.com/docs/react)
 * [Tailwind CSS](https://tailwindcss.com/)
 
-You can **browse** the pokemon catalog, **search** them by name or **filter** by type and **view their's details**. 
+You can **browse** the pokemon catalog, **search** them by name or **filter** by type and **view theirs details**. 
 
 There is also a **dark mode**! :)
 
